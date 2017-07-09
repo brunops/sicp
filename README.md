@@ -9,7 +9,7 @@ Here are my solutions for [Structure and Interpretation of Computer Programs](ht
 > that **the essential material to be addressed by a subject at this level is** not the
 > syntax of particular programming-language constructs, nor clever alforithms for
 > computing particular function efficiently, nor even mathematical analysis of algorithms
-> and the foundations of computing but rather **the techniques use to control the
+> and the foundations of computing but rather **the techniques used to control the
 > intellectual complexity of large software systems.**
 from [The Preface to the First Edition](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-7.html#%_chap_Temp_4)
 
